@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <cloud-backup>
+        <exclude domain="database" path="expense-tracker-db" />
+        <exclude domain="sharedpref" path="ExpenseTracker.xml" />
+    </cloud-backup>
+    <device-transfer>
+        <include domain="database" path="expense-tracker-db" />
+        <include domain="sharedpref" path="ExpenseTracker.xml" />
+    </device-transfer>
+</data-extraction-rules>

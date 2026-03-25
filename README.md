@@ -25,8 +25,4 @@ This project is a showcase of **Advanced Prompt Engineering**. It was developed 
 - **Architecture**: MVVM (Model-View-ViewModel)
 - **Dependency Management**: Gradle Version Catalog (libs.versions.toml)
 
-## 📸 Screenshots
-*(Add your app screenshots here to impress your GitHub visitors!)*
-
----
 Developed as a showcase of **Prompt Engineering** for a flawless financial experience.

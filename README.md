@@ -1,7 +1,14 @@
 # Pocket Mate 💰
 ### The Ultimate Privacy-First Splitwise Alternative
 
-Pocket Mate is a high-performance Android application designed for seamless personal expense tracking and group debt management. Built with **Jetpack Compose** and **Room Database**, it follows modern Android development best practices.
+**Pocket Mate** is a high-performance Android application designed for seamless personal expense tracking and group debt management. Built with **Jetpack Compose** and **Room Database**, it follows modern Android development best practices.
+
+## 🤖 AI-First Development & Prompt Engineering
+This project is a showcase of **Advanced Prompt Engineering**. It was developed as a collaboration between a human architect and an AI assistant, demonstrating how structured prompting can produce professional-grade software:
+- **Architectural Design**: Prompted the creation of a complex **Settlement Engine** using greedy algorithms for debt simplification.
+- **UI/UX Excellence**: Used iterative prompting to design a premium "Google-level" Material 3 interface with dark/light mode support.
+- **Problem Solving**: Navigated complex Android life-cycle and state management challenges through structured AI collaboration.
+- **Security & Performance**: Implemented Room persistence and release-ready Gradle configurations via prompt-driven workflows.
 
 ## 🚀 Key Features
 - **Elite Split Engine**: Automatically calculates the minimum number of transactions to settle group debts.
@@ -22,4 +29,4 @@ Pocket Mate is a high-performance Android application designed for seamless pers
 *(Add your app screenshots here to impress your GitHub visitors!)*
 
 ---
-Developed with ❤️ for a flawless financial experience.
+Developed as a showcase of **Prompt Engineering** for a flawless financial experience.
